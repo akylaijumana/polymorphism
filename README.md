@@ -33,16 +33,25 @@ calculating their properties, and displaying results.
 
 
 Sphere with radius 3.45
+
 Surface Area: 149.65
+
 Volume: 172.23
+
 ----------------------
 
 Cylinder with radius 2.8 and height 13.4
+
 Surface Area: 287.55
+
 Volume: 330.22
+
 ----------------------
 
 Cube with side length 4.1
+
 Surface Area: 100.86
+
 Volume: 68.92
+
 ----------------------
