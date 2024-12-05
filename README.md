@@ -31,6 +31,7 @@ Implements the cube-specific formulas for surface area and volume.
 Purpose: Handles the logic for creating random shapes, 
 calculating their properties, and displaying results.
 
+###output
 
 Sphere with radius 3.45
 
